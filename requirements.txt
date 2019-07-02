@@ -1,0 +1,4 @@
+funcsigs==1.0.2
+mock==3.0.5
+nose-parameterized==0.6.0
+six==1.12.0
